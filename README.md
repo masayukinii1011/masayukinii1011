@@ -2,9 +2,6 @@
 フリーランスのwebエンジニアとして活動しています。  
 詳しくは[こちら](https://msykn.com/works/portfolio)
 
-### 今後やりたいこと
-Blockchain と WebAssembly について勉強しています。
-
 ### スキルセット
 
 #### プログラミング
