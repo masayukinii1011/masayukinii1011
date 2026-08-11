@@ -12,10 +12,10 @@
 
 個人開発・音楽活動を行いながら、Web アプリやクリエイティブ系プロダクトを制作しています。  
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://msykn.com/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-6366f1?style=for-the-badge)](https://msykn.com/)
 [![PROFILE](https://img.shields.io/badge/PROFILE-8b5cf6?style=for-the-badge)](https://msykn.com/about)
 [![WORKS](https://img.shields.io/badge/PROJECTS-06b6d4?style=for-the-badge)](https://msykn.com/works)
-[![MUSIC](https://img.shields.io/badge/MUSIC-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://msykn.com/music)
+[![MUSIC](https://img.shields.io/badge/MUSIC-ec4899?style=for-the-badge)](https://msykn.com/music)
 
 ---
 
