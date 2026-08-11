@@ -2,14 +2,7 @@
 
 # Hi, I'm Masayuki Nii 👋
 
-**フロントエンドからバックエンドまで、幅広くプロジェクトをサポートするエンジニア**
-
 🇯🇵 Japan · [msykn.com](https://msykn.com/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-msykn.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://msykn.com/)
-[![About](https://img.shields.io/badge/About-Profile-8b5cf6?style=for-the-badge)](https://msykn.com/about)
-[![Works](https://img.shields.io/badge/Works-Projects-06b6d4?style=for-the-badge)](https://msykn.com/works)
-[![Music](https://img.shields.io/badge/Music-YouTube-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://msykn.com/music)
 
 </div>
 
@@ -18,12 +11,11 @@
 ## About Me
 
 個人開発・音楽活動を行いながら、Web アプリやクリエイティブ系プロダクトを制作しています。  
-現在のポートフォリオサイト [msykn.com](https://msykn.com/) は Nuxt.js から **Next.js App Router** へリプレイス済みです。
 
-- 🌐 Portfolio → [msykn.com](https://msykn.com/)
-- 💼 Focus → Frontend / Backend / Cloud / Music Tech
-- 🎵 Music → [YouTube で音楽活動中](https://msykn.com/music)
-- 📜 Certifications → **AWS SAA** / 基本情報技術者 / TOEIC 700
+[![Portfolio](https://img.shields.io/badge/Portfolio-msykn.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://msykn.com/)
+[![About](https://img.shields.io/badge/About-Profile-8b5cf6?style=for-the-badge)](https://msykn.com/about)
+[![Works](https://img.shields.io/badge/Works-Projects-06b6d4?style=for-the-badge)](https://msykn.com/works)
+[![Music](https://img.shields.io/badge/Music-YouTube-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://msykn.com/music)
 
 ---
 
@@ -73,9 +65,8 @@
 | **msykn Portfolio** | Nuxt.js → Next.js App Router へリプレイス。shadcn/ui + AWS 構成 | [Site](https://msykn.com/) · [GitHub](https://github.com/masayukinii1011/next-portfolio) · [Detail](https://msykn.com/works/portfolio) |
 | **Ambient Music Mixer** | 環境音楽をミックス・楽しめるアプリ (Nuxt.js + Firebase) | [GitHub](https://github.com/masayukinii1011/nuxt-eno) · [Detail](https://msykn.com/works/ambient-music-mixer) |
 | **ToneSynth** | Ionic + Tone.js で作ったシンセサイザー (PWA / Desktop 対応) | [GitHub](https://github.com/masayukinii1011/ionic-tone) · [Detail](https://msykn.com/works/tone-synth) |
-| **NFT Dapp** | Ethereum 上で NFT を発行できる Dapp | [GitHub](https://github.com/masayukinii1011/simple-nft-dapp) |
+| **NFT Dapp** | NFT を発行して OpenSea に出品できる Dapp (Next.js + Solidity) | [GitHub](https://github.com/masayukinii1011/simple-nft-dapp) · [Detail](https://msykn.com/works/ethereum-nft-mint) |
 | **Rust WASM Animation** | Rust + WebAssembly で Canvas アニメーション | [GitHub](https://github.com/masayukinii1011/rust-wasm-canvas) · [Detail](https://msykn.com/works/rust-webassembly-animation) |
-| **Deno Project** | Deno + Aleph.js でフルスタック構成を試作 | [GitHub](https://github.com/masayukinii1011/deno-aleph) · [Detail](https://msykn.com/works/deno) |
 
 ---
 
@@ -98,27 +89,10 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=masayukinii1011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masayukinii1011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masayukinii1011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's connect!
 
-[![Portfolio](https://img.shields.io/badge/Website-msykn.com-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://msykn.com/)
 [![Contact](https://img.shields.io/badge/Contact-Form-10b981?style=for-the-badge&logo=gmail&logoColor=white)](https://msykn.com/contact)
-[![GitHub](https://img.shields.io/badge/GitHub-masayukinii1011-181717?style=for-the-badge&logo=github)](https://github.com/masayukinii1011)
-
-<img src="https://komarev.com/ghpvc/?username=masayukinii1011&color=6366f1&style=flat-square" alt="Profile Views" />
 
 </div>
