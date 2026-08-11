@@ -63,8 +63,8 @@
 | Project | Description | Links |
 | :-- | :-- | :-- |
 | **msykn Portfolio** | Nuxt.js → Next.js App Router へリプレイス。shadcn/ui + AWS 構成 | [Site](https://msykn.com/) · [GitHub](https://github.com/masayukinii1011/next-portfolio) · [Detail](https://msykn.com/works/portfolio) |
-| **Ambient Music Mixer** | 環境音楽をミックス・楽しめるアプリ (Nuxt.js + Firebase) | [GitHub](https://github.com/masayukinii1011/nuxt-eno) · [Detail](https://msykn.com/works/ambient-music-mixer) |
-| **ToneSynth** | Ionic + Tone.js で作ったシンセサイザー (PWA / Desktop 対応) | [GitHub](https://github.com/masayukinii1011/ionic-tone) · [Detail](https://msykn.com/works/tone-synth) |
+| **Ambient Music Mixer** | 環境音楽をミックス・楽しめるアプリ (Nuxt.js + Firebase) | [Site](https://nii-nuxt-eno.web.app/) · [GitHub](https://github.com/masayukinii1011/nuxt-eno) · [Detail](https://msykn.com/works/ambient-music-mixer) |
+| **ToneSynth** | Ionic + Tone.js で作ったシンセサイザー (PWA / Desktop 対応) | [Site](https://ionic-tone.netlify.app/) · [GitHub](https://github.com/masayukinii1011/ionic-tone) · [Detail](https://msykn.com/works/tone-synth) |
 | **NFT Dapp** | NFT を発行して OpenSea に出品できる Dapp (Next.js + Solidity) | [GitHub](https://github.com/masayukinii1011/simple-nft-dapp) · [Detail](https://msykn.com/works/ethereum-nft-mint) |
 | **Rust WASM Animation** | Rust + WebAssembly で Canvas アニメーション | [GitHub](https://github.com/masayukinii1011/rust-wasm-canvas) · [Detail](https://msykn.com/works/rust-webassembly-animation) |
 
